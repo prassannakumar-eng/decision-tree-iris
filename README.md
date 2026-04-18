@@ -25,3 +25,7 @@ The editor or platform used for this task can be Jupyter Notebook or Google Cola
 This task has wide real-world applicability across various domains. Decision tree models are used in fields such as healthcare for disease prediction, finance for credit risk analysis, marketing for customer segmentation, and agriculture for crop classification. The simplicity and interpretability of decision trees make them highly valuable in situations where understanding the decision-making process is important.
 
 Overall, this task provides a strong foundation in machine learning by demonstrating how data can be processed, analyzed, and used to build predictive models. It also highlights the importance of visualization and evaluation in ensuring model accuracy and reliability. By completing this task, one gains practical knowledge of implementing machine learning algorithms and understanding their applications in real-world scenarios.
+
+OUTPUT:
+
+<img width="950" height="636" alt="Image" src="https://github.com/user-attachments/assets/9d0c7617-b2e1-47ed-b33f-7549d5477ad6" />
